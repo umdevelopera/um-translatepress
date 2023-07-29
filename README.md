@@ -27,6 +27,10 @@ Go to *wp-admin > Ultimate Member > Settings > Email* to translate email templat
 ### Screenshots:
 
 Image - Translate email templates.
+![Emails](https://github.com/umdevelopera/um-translatepress/assets/113178913/4b00c241-128d-473e-b577-b7f62c72033d)
+
+Image - Translated "Biography" (description) field in profile.
+![Biography](https://github.com/umdevelopera/um-translatepress/assets/113178913/df312293-fc41-47c1-8193-8d0743353f5f)
 
 ## Related links:
 Ultimate Member home page: https://ultimatemember.com/
